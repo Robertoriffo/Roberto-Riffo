@@ -1,0 +1,44 @@
+[
+    {
+        "categoria": "imagen",
+        "src": "img/Alfajor.jpg",
+        "descripcion": "Alfajor De Frutilla",
+        "valor": "1$"
+    },
+    {
+        "categoria": "imagen",
+        "src": "img/Alfajor.jpg",
+        "descripcion": "Alfajor De Manjar",
+        "valor": "1$"
+    },
+    {
+        "categoria": "imagen",
+        "src": "img/Mack.jpg",
+        "descripcion": "Macarrons",
+        "valor": "1$"
+    },
+    {
+        "categoria": "imagen",
+        "src": "img/berlin.jpg",
+        "descripcion": "Berlin",
+        "valor": "1$"
+    },
+    {
+        "categoria": "imagen",
+        "src": "img/Reina.jpg",
+        "descripcion": "Brazo De Reina",
+        "valor": "1$"
+    },
+    {
+        "categoria": "imagen",
+        "src": "img/Churron.jpg",
+        "descripcion": "Churros Con Manjar",
+        "valor": "1$"
+    },
+    {
+        "categoria": "imagen",
+        "src": "img/Empolvados.jpg",
+        "descripcion": "Empolvados",
+        "valor": "1$"
+    }
+]

@@ -1,0 +1,309 @@
+body{
+    font-family: Arial;
+    background: linear-gradient( #FFC0CB, #ffffff);
+    height: auto;
+    border-radius: 0%;
+    }
+
+
+.logo {
+    width: auto; 
+    height:70px;
+    border-radius: 50%;
+     margin-left: 10px; 
+
+}
+
+
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+
+
+.footer {
+
+    color: #000000; /* Color del texto del footer */
+    padding: 20px 0; 
+    text-align: center; 
+  }
+
+  .footer p {
+    margin-bottom: 0; 
+  }
+
+
+.card{
+    
+    width: 320px;
+    height: 480px;
+    background:  #FFC0CB;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 20px;
+
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #7654f1;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+/*aqui empiza el tormento-este es el formulario*/
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #B06AB3;
+    padding-top: 20px;
+}
+
+body {
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+h2, h1 {
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+/*  formulario inicio  */
+
+
+
+
+
+
+
+
+
+/*  formulario inicio  */
+body {
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+h2, h1 {
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+
+/* aqui esta la config del footer */
+
+footer {
+
+    background-color: rgb(235, 184, 248); 
+    color: #fdbfff;
+    text-align: center;
+    padding: 20px 0;
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.info img {
+    width: 80px; 
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 15px; 
+}
+
+.contacto h3 {
+    margin-bottom: 5px;
+    color: white; 
+    font-size: 15px; 
+}
+
+.redes h3 {
+    color: white; 
+    margin-bottom: 80px; 
+    font-size: 15px; 
+    margin-right: -190px;
+}
+
+.redes {
+    display: flex;
+    align-items: center; 
+
+}
+
+.redes a {
+    margin: 15px 0; 
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.redes img {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.containerimage{
+    display: flex;
+    flex-wrap: wrap;
+}
+.containerimage img{
+    flex-grow: 1;
+    flex-basis: 200;
+    max-height: 300px;
+    max-width: 100%;
+}
+.btn-outline-success{
+    border-color: #085066!important;
+    color: black!important;
+}
+.btn-outline-success:hover{
+    background-color: #085066!important;
+    color: white!important;
+}
+.navbar-brand-image{
+    margin-top: -25px;
+}
+.mb-0{
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 18px;
+    color: #000;
+    font-weight: bold;
+}
+.navbar-brand{
+    margin-bottom: 5px;
+}
+.p_index{
+    background-color: #085066;
+      padding: 20px;
+      border-radius: 15px;
+      border: 2px solid whitesmoke;
+      overflow-x: auto;
+      max-width: 70%;
+      margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.table h2{
+    color: #fff;
+}
+
+.table p{
+    color: #fff;
+    font-size: 1.5vw;
+    text-align: center;
+}
+.imagenes{
+    display: flex;
+    flex-wrap: wrap;
+}
+.imagenes img{
+    flex-grow: 1;
+    flex-basis: 200;
+    width: 300px;
+    height: 100%;
+    max-height: 300px;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+#toggle-password {
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    color: #000;
+
+}
